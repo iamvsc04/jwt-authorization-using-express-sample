@@ -12,7 +12,7 @@ then click on the send button and in the result's body page copy the token code
 and
 do not close this tab and in the new tab maek the method post and in the url part just use the url localhost:3000/profile
 and 
-then in the headers tab type authorization in the key tab and in the value tab use the keyword Bearer and past the token copied from the previous tab
+then in the headers tab type authorization in the key tab and in the value tab use the keyword Bearer and paste the token copied from the previous tab
 and 
 then click on send make sure that secret code is same in both of the cases i.e in login(jwt sign) and in profile (jwt verify)... 
 */
